@@ -1,0 +1,35 @@
+id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+fb,Brantner,Franziska ,0,1,1979,1,1,4,Gruenen,,1,14.052,4.479,2.748,26
+ft,Toncar,Florian,0,2,1979,1,1,1,FDP,evangelisch,3,8.599,3.071,4.477,99
+rs,Schwarzeluehr-Sütter,Rita,0,1,,1,2,2,SPD,katholisch,2,4.253,1.537,2.942,0
+tl,Lindner,Tobias,0,2,1982,3,1,6,Gruenen,,,10.552,3.608,4.921,
+bs,Strasser,Benjamin,0,2,1987,1,3,1,FDP,katholisch,0,5.814,3.931,3.368,288
+coe,Oezdemir,Cem,0,2,1965,2,2,5,Gruenen,,2,317.668,105.000,162.564,
+mt,Theurer,Michael ,0,2,1967,1,2,3,FDP,evangelisch,1,8.482,3.745,27.914,0
+ck,Kuehn,Chris,0,2,1979,1,4,4,Gruenen,evangelisch,3,4.829,1.663,100,35
+jb,Brandenburg,Jens,0,2,1986,1,1,4,FDP ,,,5.408,3.329,,
+,,,,,,,,,,,,,,,
+afa,Auschuss fuer Auswaertige Angelegenheiten,,1,,,,,,,,,,,,
+aa,Auswaertiger Ausschuss,,1,,,,,,,,,,,,
+awe,Ausschuss fuer Wirtschaft und Energie,,1,,,,,,,,,,,,
+avi,Ausschuss fuer Verkehr und digitale Infrastruktur,,1,,,,,,,,,,,,
+bvf,Bundesvorstand FDP ,,1,,,,,,FDP,,,,,,
+btf,Bundestagsfraktion FDP,,1,,,,,,FDP,,,,,,
+bum,Bundesumweltministerium,,1,,,,,,,,,,,,
+eha,Europaeischer Haushaltsausschuss,,1,,,,,,,,,,,,
+efa,Europaeisches Parlament/Fraktion Grüne/EFA ,,1,,,,,,Gruenen,,,,,,
+epu,Europa-Union,,1,,,,,,,,,,,,
+gsspf,Gesellschaft zum Studium strukturpolitischer Fragen e.V.,,1,,,,,,,,,,,,
+gfsfj,"Gremium Familien, Senioren, Frauen und Jugend",,1,,,,,,,,,,,,
+gwe,Gremium Wirtschaft und Energie,,,,,,,,,,,,,,
+ha,Haushaltsausschuss,,1,,,,,,,,,,,,
+hbs,Heinrich-Boell-Stiftung,,1,,,,,,,,,,,,
+jlbw,Jungen Liberalen Baden-Württemberg,,1,,,,,,,,,,,,
+kfw,KfW,,1,,,,,,,,,,,,
+lvf,Landesvorstand FDP,,1,,,,,,FDP,,,,,,
+lvg,Landesvorstand Grüne,,1,,,,,,Gruenen,,,,,,
+sfp,SEFEP,,1,,,,,,,,,,,,
+ths,Theodor-Heuss-Stiftung,,1,,,,,,,,,,,,
+ua,Untersuchungsausschuss,,1,,,,,,,,,,,,
+um,Universitaet Mannheim,,1,,,,,,,,,,,,
+ut,Universitaet Tübingen,,1,,,,,,,,,,,,
